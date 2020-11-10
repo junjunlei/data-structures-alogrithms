@@ -5,6 +5,8 @@ package a.array.search;
  * <p>
  * 思路：while循环或者递归
  *
+ * 效率 log(n)
+ *
  * @author junjun.lei
  * @create 2020-11-09 16:15
  */
